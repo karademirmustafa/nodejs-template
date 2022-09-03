@@ -82,7 +82,7 @@ module.exports = {connectDB};
 `;
 const dbIndexExample = `
 
-const {connectDB }= require("./db");
+const {connectDB }= require("./dbExample");
 
 module.exports = () => { 
     connectDB();
