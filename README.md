@@ -18,7 +18,7 @@ npm start
 
 # Folder Structure View
 
-! [Folder Structure](https://i.hizliresim.com/5pm3531.png)
+![Folder Structure](https://i.hizliresim.com/5pm3531.png)
 
 **GOOD LUCK!**
 
