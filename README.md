@@ -18,7 +18,7 @@ npm start
 
 # Folder Structure View
 
-[Markdown](https://i.hizliresim.com/5pm3531.png)
+https://i.hizliresim.com/5pm3531.png
 
 **GOOD LUCK!**
 
